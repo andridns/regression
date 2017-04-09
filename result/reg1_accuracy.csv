@@ -1,0 +1,7 @@
+,,R-Squared Accuracy
+In-House,Training Data,0.9997710974257766
+In-House,Testing Data,0.99974353239822
+Scikit-Learn,Training Data,0.9997710974257766
+Scikit-Learn,Testing Data,0.9997435323982199
+TensorFlow,Training Data,0.9997710978866443
+TensorFlow,Testing Data,0.9997435781954174
